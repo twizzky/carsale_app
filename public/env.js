@@ -1,0 +1,1 @@
+window.env = { SUPABASE_URL: 'https://amaclvluhnzislcuqbio.supabase.co', SUPABASE_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFtYWNsdmx1aG56aXNsY3VxYmlvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTI0MTg3MTAsImV4cCI6MjA2Nzk5NDcxMH0.EOFDYZGCngTfDagOg5UhNzJ9fTkACbT8VC88odXSBfs' };
